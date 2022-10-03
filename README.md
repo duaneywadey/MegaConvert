@@ -1,12 +1,12 @@
 # MegaConvert
 A web app that allows you to convert to a range of units, and this includes temperature conversion, distance conversion, and many more. 
 
-1. Temperature
+- Temperature
 	- Celsius
 	- Fahrenheit
 	- Kelvin
 
-2. Length
+- Length
 	- Centimeters
 	- Inches
 	- Meters
@@ -15,4 +15,4 @@ A web app that allows you to convert to a range of units, and this includes temp
 	- Miles
 	- Kilometers
 	
-3. Weight
+- Weight
